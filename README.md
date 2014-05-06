@@ -18,5 +18,5 @@ This is a python implementation/translation of network deconvolution by MIT-KELL
        For more details, see the following paper:
         Network Deconvolution as a General Method to Distinguish
         Direct Dependencies over Networks
-        By: Soheil Feizi, Daniel Marbach,  Muriel M?©dard and Manolis Kellis
+        By: Soheil Feizi, Daniel Marbach,  Muriel Médard and Manolis Kellis
         Nature Biotechnology
