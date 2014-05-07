@@ -3,7 +3,7 @@ Network-Deconvolution
 
 Python implementation of network deconvolution as a general method to distinguish direct dependencies in network.
 
-This is a python implementation/translation of network deconvolution by MIT-KELLIS LAB, original matlab code can be oufnd at http://compbio.mit.edu/nd/code.html
+This is a python implementation/translation of network deconvolution by MIT-KELLIS LAB, original matlab code can be found at http://compbio.mit.edu/nd/code.html
     
     
      LICENSE: MIT-KELLIS LAB
